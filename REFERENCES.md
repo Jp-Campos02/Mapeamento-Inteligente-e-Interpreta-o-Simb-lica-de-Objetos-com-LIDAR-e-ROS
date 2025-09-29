@@ -5,6 +5,7 @@ Esta página contém uma lista de referências, artigos, tutoriais e documentaç
 ---
 
 ### 1. Estudo dos Fundamentos Tecnológicos (LIDAR e ROS)
+https://g.co/gemini/share/63b9b0eab966
 
 ### 2. Configuração e Integração do LIDAR com o ROS
 
