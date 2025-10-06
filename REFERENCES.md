@@ -6,8 +6,6 @@ Esta página contém uma lista de referências, artigos, tutoriais e documentaç
 
 ### 1. Estudo dos Fundamentos Tecnológicos (LIDAR e ROS)
 https://g.co/gemini/share/63b9b0eab966
-Com certeza. Aqui estão os links para cada uma das 5 principais referências mencionadas:
-
 1.1  **ROS Wiki (Documentação do ROS 1)**: O repositório central para a documentação do ROS 1, ideal para entender os conceitos legados e a base do ecossistema.
     *   `https://wiki.ros.org/`
 
